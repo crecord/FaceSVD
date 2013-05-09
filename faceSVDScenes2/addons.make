@@ -1,0 +1,4 @@
+ofxXmlSettings
+ofxAppUtils
+ofxCv
+ofxFaceTracker
